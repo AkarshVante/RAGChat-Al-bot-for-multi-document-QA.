@@ -1,6 +1,6 @@
-streamlit
-PyPDF2
 langchain
+langchain-community
 openai
+PyPDF2
 cassio
 python-dotenv
