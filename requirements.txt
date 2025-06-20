@@ -1,6 +1,8 @@
 langchain
 langchain-community
 openai
-PyPDF2
+tiktoken
 cassio
+PyPDF2
+streamlit
 python-dotenv
